@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ant.AntLaunchConfigurationType">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES"/>
+<stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.ant.ui.AntClasspathProvider"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="com.york.cs.swe.SyncDoc"/>
+<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.ant.ui.AntClasspathProvider"/>
+<mapAttribute key="org.eclipse.ui.externaltools.ATTR_ANT_PROPERTIES">
+<mapEntry key="basearch" value="x86_64"/>
+<mapEntry key="basenl" value="en_GB"/>
+<mapEntry key="baseos" value="win32"/>
+<mapEntry key="basews" value="win32"/>
+<mapEntry key="bootclasspath" value="C:\Program Files\Java\jre8\lib\resources.jar;C:\Program Files\Java\jre8\lib\rt.jar;C:\Program Files\Java\jre8\lib\jsse.jar;C:\Program Files\Java\jre8\lib\jce.jar;C:\Program Files\Java\jre8\lib\charsets.jar;C:\Program Files\Java\jre8\lib\jfr.jar;C:\Program Files\Java\jre8\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre8\lib\ext\cldrdata.jar;C:\Program Files\Java\jre8\lib\ext\dnsns.jar;C:\Program Files\Java\jre8\lib\ext\jaccess.jar;C:\Program Files\Java\jre8\lib\ext\jfxrt.jar;C:\Program Files\Java\jre8\lib\ext\localedata.jar;C:\Program Files\Java\jre8\lib\ext\nashorn.jar;C:\Program Files\Java\jre8\lib\ext\sunec.jar;C:\Program Files\Java\jre8\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre8\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre8\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre8\lib\ext\zipfs.jar"/>
+<mapEntry key="eclipse.running" value="true"/>
+<mapEntry key="javacDebugInfo" value="on"/>
+<mapEntry key="javacFailOnError" value="false"/>
+<mapEntry key="javacSource" value="1.6"/>
+<mapEntry key="javacTarget" value="1.6"/>
+<mapEntry key="javacVerbose" value="false"/>
+</mapAttribute>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="${workspace_loc:/com.york.cs.swe.SyncDoc/build.xml}"/>
+<stringAttribute key="process_factory_id" value="org.eclipse.ant.ui.remoteAntProcessFactory"/>
+</launchConfiguration>

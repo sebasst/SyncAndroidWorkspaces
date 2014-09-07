@@ -1,0 +1,722 @@
+2014-08-19 18:53:24.904 [Worker-8] INFO    com.objectaid.uml.license.LicenseManager initialize: found license Sequence Diagram 1.1.x - EVAL until 2014-09-05
+2014-08-19 18:53:26.014 [Worker-5] INFO    com.objectaid.uml.model.manage.DiagramManager getFactories: com.objectaid.uml.diagramFactories[ucls]: com.objectaid.uml.cls.model.ClassDiagramFactory@7f74fd3b
+2014-08-19 18:53:26.030 [Worker-5] INFO    com.objectaid.uml.model.manage.DiagramManager getFactories: com.objectaid.uml.diagramFactories[useq]: com.objectaid.uml.seq.model.SequenceDiagramFactory@2166a45
+2014-08-19 18:53:26.624 [pool-2-thread-1] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.HtmlNodeDefinition in [com.objectaid.uml.seq], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.628 [pool-2-thread-1] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.TextLink in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.629 [pool-2-thread-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.TextLink in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.629 [pool-2-thread-1] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.TextLinkEditPart in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.631 [pool-2-thread-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.TextLinkEditPart in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.635 [pool-2-thread-1] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.PTextLink in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.641 [pool-2-thread-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.PTextLink in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.643 [pool-2-thread-1] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.model.diagram.ConnectionEnd in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.645 [pool-2-thread-1] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.model.persistence.PersistedConnectionEnd in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.647 [pool-2-thread-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.model.diagram.ConnectionEnd in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.647 [pool-2-thread-1] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.TextNodeDefinition in [com.objectaid.uml.seq], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.649 [pool-2-thread-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.model.persistence.PersistedConnectionEnd in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.651 [pool-2-thread-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.doc.TextNodeDefinition in [com.objectaid.uml.cls], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.973 [pool-2-thread-4] INFO    com.objectaid.uml.model.manage.LanguageElementManager getLanguageElementFactories: com.objectaid.uml.languageElementFactories: com.objectaid.uml.java.JavaElementFactory
+2014-08-19 18:53:26.976 [pool-2-thread-2] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.renderFormats="com.objectaid.uml.render.RasterRenderFormat" class="com.objectaid.uml.render.RasterRenderFormat" name="PNG" extension="png" antialias="true" format="5" 
+2014-08-19 18:53:26.982 [pool-2-thread-2] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.renderFormats="com.objectaid.uml.render.RasterRenderFormat" class="com.objectaid.uml.render.RasterRenderFormat" name="JPEG" extension="jpg" antialias="true" format="4" 
+2014-08-19 18:53:26.984 [pool-2-thread-2] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.renderFormats="com.objectaid.uml.render.IndexedRasterRenderFormat" class="com.objectaid.uml.render.IndexedRasterRenderFormat" name="GIF" extension="gif" antialias="false" format="2" 
+2014-08-19 18:53:26.986 [pool-2-thread-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.render.SVGRenderFormat in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.988 [pool-2-thread-2] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.renderFormats='com.objectaid.uml.addon.render.SVGRenderFormat' but cannot load class
+2014-08-19 18:53:26.989 [pool-2-thread-2] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.render.PDFRenderFormat in [], no license for [com.objectaid.uml.addon]
+2014-08-19 18:53:26.990 [pool-2-thread-2] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.renderFormats='com.objectaid.uml.addon.render.PDFRenderFormat' but cannot load class
+2014-08-19 18:53:27.489 [pool-2-thread-1] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=2 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/SyncAdapter/ClassDiagram.ucls
+2014-08-19 18:53:27.681 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=8 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:27.683 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=6 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:27.684 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=8 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:27.685 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=2 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:27.685 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=3 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:27.686 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=8 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:27.687 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=10 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:27.688 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=3 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:27.689 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=8 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:27.690 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=5 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:27.691 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=10 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:27.692 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=7 in /com.york.cs.swe.SyncDoc/DefaultFiles/SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:31.160 [pool-2-thread-4] WARNING com.objectaid.uml.java.JavaRelationshipCandidateFactory createIdentifier: Cannot find type 'com.york.cs.couchbaseapi.queryBuilder.QueryProducer' referenced by '/TodoLite2/com.york.cs.todolite2.document2.Task'.
+java.lang.Throwable: Cannot find type 'com.york.cs.couchbaseapi.queryBuilder.QueryProducer' referenced by '/TodoLite2/com.york.cs.todolite2.document2.Task'.
+	at com.objectaid.uml.java.JavaRelationshipCandidateFactory.createIdentifier(JavaRelationshipCandidateFactory.java:54)
+	at com.objectaid.uml.java.AssociationCandidateFactory.addCandidates(AssociationCandidateFactory.java:136)
+	at com.objectaid.uml.java.AssociationCandidateFactory.createCandidates(AssociationCandidateFactory.java:77)
+	at com.objectaid.uml.model.impl.RelationshipCandidateFactory.getCandidates(RelationshipCandidateFactory.java:54)
+	at com.objectaid.uml.cls.model.RelationshipFactory.getCandidates(RelationshipFactory.java:245)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.validateEnd(RelationshipDefinition.java:91)
+	at com.objectaid.uml.cls.model.definition.AssociationDefinition.validateEnd(AssociationDefinition.java:131)
+	at com.objectaid.uml.cls.model.definition.AssociationDefinition.validateEnd(AssociationDefinition.java:32)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.doConnect(RelationshipDefinition.java:64)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.doConnect(RelationshipDefinition.java:35)
+	at com.objectaid.uml.model.definition.ModelDefinition.connect(ModelDefinition.java:228)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:75)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:26)
+	at com.objectaid.uml.util.collection.GenericVisitor.visit(GenericVisitor.java:40)
+	at com.objectaid.uml.model.persistence.PersistedConnection.accept(PersistedConnection.java:39)
+	at com.objectaid.uml.model.persistence.PersistedDiagram.accept(PersistedDiagram.java:45)
+	at com.objectaid.uml.model.diagram.DiagramFactory.unmarshal(DiagramFactory.java:243)
+	at com.objectaid.uml.model.DiagramHandle.unmarshalModel(DiagramHandle.java:206)
+	at com.objectaid.uml.model.DiagramHandle.unmarshal(DiagramHandle.java:155)
+	at com.objectaid.uml.model.manage.DiagramManager.add(DiagramManager.java:104)
+	at com.objectaid.uml.model.manage.StartupJob$2.run(StartupJob.java:83)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+2014-08-19 18:53:31.164 [pool-2-thread-4] WARNING com.objectaid.uml.java.JavaRelationshipCandidateFactory createIdentifier: Cannot find type 'com.york.cs.couchbaseapi.queryBuilder.QueryProducer' referenced by '/TodoLite2/com.york.cs.todolite2.document2.Task'.
+java.lang.Throwable: Cannot find type 'com.york.cs.couchbaseapi.queryBuilder.QueryProducer' referenced by '/TodoLite2/com.york.cs.todolite2.document2.Task'.
+	at com.objectaid.uml.java.JavaRelationshipCandidateFactory.createIdentifier(JavaRelationshipCandidateFactory.java:54)
+	at com.objectaid.uml.java.AssociationCandidateFactory.addCandidates(AssociationCandidateFactory.java:136)
+	at com.objectaid.uml.java.AssociationCandidateFactory.createCandidates(AssociationCandidateFactory.java:77)
+	at com.objectaid.uml.model.impl.RelationshipCandidateFactory.getCandidates(RelationshipCandidateFactory.java:54)
+	at com.objectaid.uml.cls.model.RelationshipFactory.getCandidates(RelationshipFactory.java:245)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.validateEnd(RelationshipDefinition.java:91)
+	at com.objectaid.uml.cls.model.definition.AssociationDefinition.validateEnd(AssociationDefinition.java:131)
+	at com.objectaid.uml.cls.model.definition.AssociationDefinition.validateEnd(AssociationDefinition.java:32)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.doConnect(RelationshipDefinition.java:64)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.doConnect(RelationshipDefinition.java:35)
+	at com.objectaid.uml.model.definition.ModelDefinition.connect(ModelDefinition.java:228)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:75)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:26)
+	at com.objectaid.uml.util.collection.GenericVisitor.visit(GenericVisitor.java:40)
+	at com.objectaid.uml.model.persistence.PersistedConnection.accept(PersistedConnection.java:39)
+	at com.objectaid.uml.model.persistence.PersistedDiagram.accept(PersistedDiagram.java:45)
+	at com.objectaid.uml.model.diagram.DiagramFactory.unmarshal(DiagramFactory.java:243)
+	at com.objectaid.uml.model.DiagramHandle.unmarshalModel(DiagramHandle.java:206)
+	at com.objectaid.uml.model.DiagramHandle.unmarshal(DiagramHandle.java:155)
+	at com.objectaid.uml.model.manage.DiagramManager.add(DiagramManager.java:104)
+	at com.objectaid.uml.model.manage.StartupJob$2.run(StartupJob.java:83)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+2014-08-19 18:53:31.166 [pool-2-thread-4] WARNING com.objectaid.uml.java.JavaRelationshipCandidateFactory createIdentifier: Cannot find type 'com.york.cs.couchbaseapi.queryBuilder.QueryProducer' referenced by '/TodoLite2/com.york.cs.todolite2.document2.Task'.
+java.lang.Throwable: Cannot find type 'com.york.cs.couchbaseapi.queryBuilder.QueryProducer' referenced by '/TodoLite2/com.york.cs.todolite2.document2.Task'.
+	at com.objectaid.uml.java.JavaRelationshipCandidateFactory.createIdentifier(JavaRelationshipCandidateFactory.java:54)
+	at com.objectaid.uml.java.AssociationCandidateFactory.addCandidates(AssociationCandidateFactory.java:136)
+	at com.objectaid.uml.java.AssociationCandidateFactory.createCandidates(AssociationCandidateFactory.java:77)
+	at com.objectaid.uml.model.impl.RelationshipCandidateFactory.getCandidates(RelationshipCandidateFactory.java:54)
+	at com.objectaid.uml.cls.model.RelationshipFactory.getCandidates(RelationshipFactory.java:245)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.validateEnd(RelationshipDefinition.java:91)
+	at com.objectaid.uml.cls.model.definition.AssociationDefinition.validateEnd(AssociationDefinition.java:131)
+	at com.objectaid.uml.cls.model.definition.AssociationDefinition.validateEnd(AssociationDefinition.java:32)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.doConnect(RelationshipDefinition.java:64)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.doConnect(RelationshipDefinition.java:35)
+	at com.objectaid.uml.model.definition.ModelDefinition.connect(ModelDefinition.java:228)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:75)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:26)
+	at com.objectaid.uml.util.collection.GenericVisitor.visit(GenericVisitor.java:40)
+	at com.objectaid.uml.model.persistence.PersistedConnection.accept(PersistedConnection.java:39)
+	at com.objectaid.uml.model.persistence.PersistedDiagram.accept(PersistedDiagram.java:45)
+	at com.objectaid.uml.model.diagram.DiagramFactory.unmarshal(DiagramFactory.java:243)
+	at com.objectaid.uml.model.DiagramHandle.unmarshalModel(DiagramHandle.java:206)
+	at com.objectaid.uml.model.DiagramHandle.unmarshal(DiagramHandle.java:155)
+	at com.objectaid.uml.model.manage.DiagramManager.add(DiagramManager.java:104)
+	at com.objectaid.uml.model.manage.StartupJob$2.run(StartupJob.java:83)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+2014-08-19 18:53:31.242 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.CouchbaseLiteException
+2014-08-19 18:53:31.242 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.Database
+2014-08-19 18:53:31.243 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.Query
+2014-08-19 18:53:31.244 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.QueryEnumerator
+2014-08-19 18:53:31.245 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.QueryRow
+2014-08-19 18:53:31.245 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi.DBCollection
+2014-08-19 18:53:31.246 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi.DBCursorIterator
+2014-08-19 18:53:31.246 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi.ClassDBFactory
+2014-08-19 18:53:31.250 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getDBCollectionQuery(dbCollection)
+2014-08-19 18:53:31.251 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for query.run()
+2014-08-19 18:53:31.252 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for e.printStackTrace()
+2014-08-19 18:53:31.236 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for java.io.ByteArrayOutputStream
+2014-08-19 18:53:31.296 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.CouchbaseLiteException
+2014-08-19 18:53:31.312 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for java.io.File
+2014-08-19 18:53:31.312 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.Database
+2014-08-19 18:53:31.313 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.Query
+2014-08-19 18:53:31.314 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.QueryEnumerator
+2014-08-19 18:53:31.315 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.QueryRow
+2014-08-19 18:53:31.316 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi.DBCollection
+2014-08-19 18:53:31.316 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi.DBCursorIterator
+2014-08-19 18:53:31.317 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi.ClassDBFactory
+2014-08-19 18:53:31.320 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getDBCollectionQuery(dbCollection)
+2014-08-19 18:53:31.321 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for query.run()
+2014-08-19 18:53:31.322 [pool-2-thread-4] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for e.printStackTrace()
+2014-08-19 18:53:31.331 [pool-2-thread-4] WARNING com.objectaid.uml.java.JavaRelationshipCandidateFactory createIdentifier: Cannot find type 'com.york.cs.couchbaseapi.queryBuilder.QueryProducer' referenced by '/TodoLite2/com.york.cs.todolite2.document2.ListTasks'.
+java.lang.Throwable: Cannot find type 'com.york.cs.couchbaseapi.queryBuilder.QueryProducer' referenced by '/TodoLite2/com.york.cs.todolite2.document2.ListTasks'.
+	at com.objectaid.uml.java.JavaRelationshipCandidateFactory.createIdentifier(JavaRelationshipCandidateFactory.java:54)
+	at com.objectaid.uml.java.AssociationCandidateFactory.addCandidates(AssociationCandidateFactory.java:136)
+	at com.objectaid.uml.java.AssociationCandidateFactory.createCandidates(AssociationCandidateFactory.java:77)
+	at com.objectaid.uml.model.impl.RelationshipCandidateFactory.getCandidates(RelationshipCandidateFactory.java:54)
+	at com.objectaid.uml.cls.model.RelationshipFactory.getCandidates(RelationshipFactory.java:245)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.validateEnd(RelationshipDefinition.java:91)
+	at com.objectaid.uml.cls.model.definition.AssociationDefinition.validateEnd(AssociationDefinition.java:131)
+	at com.objectaid.uml.cls.model.definition.AssociationDefinition.validateEnd(AssociationDefinition.java:32)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.doConnect(RelationshipDefinition.java:64)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.doConnect(RelationshipDefinition.java:35)
+	at com.objectaid.uml.model.definition.ModelDefinition.connect(ModelDefinition.java:228)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:75)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:26)
+	at com.objectaid.uml.util.collection.GenericVisitor.visit(GenericVisitor.java:40)
+	at com.objectaid.uml.model.persistence.PersistedConnection.accept(PersistedConnection.java:39)
+	at com.objectaid.uml.model.persistence.PersistedDiagram.accept(PersistedDiagram.java:45)
+	at com.objectaid.uml.model.diagram.DiagramFactory.unmarshal(DiagramFactory.java:243)
+	at com.objectaid.uml.model.DiagramHandle.unmarshalModel(DiagramHandle.java:206)
+	at com.objectaid.uml.model.DiagramHandle.unmarshal(DiagramHandle.java:155)
+	at com.objectaid.uml.model.manage.DiagramManager.add(DiagramManager.java:104)
+	at com.objectaid.uml.model.manage.StartupJob$2.run(StartupJob.java:83)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+2014-08-19 18:53:31.333 [pool-2-thread-4] WARNING com.objectaid.uml.java.JavaRelationshipCandidateFactory createIdentifier: Cannot find type 'com.york.cs.couchbaseapi.queryBuilder.QueryProducer' referenced by '/TodoLite2/com.york.cs.todolite2.document2.ListTasks'.
+java.lang.Throwable: Cannot find type 'com.york.cs.couchbaseapi.queryBuilder.QueryProducer' referenced by '/TodoLite2/com.york.cs.todolite2.document2.ListTasks'.
+	at com.objectaid.uml.java.JavaRelationshipCandidateFactory.createIdentifier(JavaRelationshipCandidateFactory.java:54)
+	at com.objectaid.uml.java.AssociationCandidateFactory.addCandidates(AssociationCandidateFactory.java:136)
+	at com.objectaid.uml.java.AssociationCandidateFactory.createCandidates(AssociationCandidateFactory.java:77)
+	at com.objectaid.uml.model.impl.RelationshipCandidateFactory.getCandidates(RelationshipCandidateFactory.java:54)
+	at com.objectaid.uml.cls.model.RelationshipFactory.getCandidates(RelationshipFactory.java:245)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.validateEnd(RelationshipDefinition.java:91)
+	at com.objectaid.uml.cls.model.definition.AssociationDefinition.validateEnd(AssociationDefinition.java:131)
+	at com.objectaid.uml.cls.model.definition.AssociationDefinition.validateEnd(AssociationDefinition.java:32)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.doConnect(RelationshipDefinition.java:64)
+	at com.objectaid.uml.cls.model.definition.RelationshipDefinition.doConnect(RelationshipDefinition.java:35)
+	at com.objectaid.uml.model.definition.ModelDefinition.connect(ModelDefinition.java:228)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:75)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:26)
+	at com.objectaid.uml.util.collection.GenericVisitor.visit(GenericVisitor.java:40)
+	at com.objectaid.uml.model.persistence.PersistedConnection.accept(PersistedConnection.java:39)
+	at com.objectaid.uml.model.persistence.PersistedDiagram.accept(PersistedDiagram.java:45)
+	at com.objectaid.uml.model.diagram.DiagramFactory.unmarshal(DiagramFactory.java:243)
+	at com.objectaid.uml.model.DiagramHandle.unmarshalModel(DiagramHandle.java:206)
+	at com.objectaid.uml.model.DiagramHandle.unmarshal(DiagramHandle.java:155)
+	at com.objectaid.uml.model.manage.DiagramManager.add(DiagramManager.java:104)
+	at com.objectaid.uml.model.manage.StartupJob$2.run(StartupJob.java:83)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+2014-08-19 18:53:31.359 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for java.io.IOException
+2014-08-19 18:53:31.405 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for java.text.SimpleDateFormat
+2014-08-19 18:53:31.405 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for java.util.ArrayList
+2014-08-19 18:53:31.406 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for java.util.Date
+2014-08-19 18:53:31.406 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for java.util.HashMap
+2014-08-19 18:53:31.407 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for java.util.Iterator
+2014-08-19 18:53:31.408 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for java.util.List
+2014-08-19 18:53:31.408 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.annotation.SuppressLint
+2014-08-19 18:53:31.409 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.app.ActionBar
+2014-08-19 18:53:31.409 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.app.AlertDialog
+2014-08-19 18:53:31.410 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.app.Fragment
+2014-08-19 18:53:31.410 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.app.FragmentManager
+2014-08-19 18:53:31.412 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.content.Context
+2014-08-19 18:53:31.413 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.content.DialogInterface
+2014-08-19 18:53:31.414 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.content.Intent
+2014-08-19 18:53:31.414 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.graphics.Bitmap
+2014-08-19 18:53:31.415 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.graphics.BitmapFactory
+2014-08-19 18:53:31.415 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.media.ThumbnailUtils
+2014-08-19 18:53:31.416 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.net.Uri
+2014-08-19 18:53:31.417 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.os.Bundle
+2014-08-19 18:53:31.417 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.os.Environment
+2014-08-19 18:53:31.418 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.provider.MediaStore
+2014-08-19 18:53:31.419 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.support.v4.widget.DrawerLayout
+2014-08-19 18:53:31.419 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.text.InputType
+2014-08-19 18:53:31.420 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.view.KeyEvent
+2014-08-19 18:53:31.421 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.view.LayoutInflater
+2014-08-19 18:53:31.421 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.view.Menu
+2014-08-19 18:53:31.422 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.view.MenuItem
+2014-08-19 18:53:31.423 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.view.View
+2014-08-19 18:53:31.423 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.view.ViewGroup
+2014-08-19 18:53:31.428 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=8 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:31.437 [pool-2-thread-3] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=2 in /SyncDocALib/src/com/york/cs/services/SyncAdapter/ClassDiagram.ucls
+2014-08-19 18:53:31.438 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.view.Window
+2014-08-19 18:53:31.438 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.widget.AdapterView
+2014-08-19 18:53:31.439 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.widget.CheckBox
+2014-08-19 18:53:31.439 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.widget.EditText
+2014-08-19 18:53:31.440 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.widget.ImageView
+2014-08-19 18:53:31.441 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.widget.ListView
+2014-08-19 18:53:31.441 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.widget.PopupMenu
+2014-08-19 18:53:31.442 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.widget.TextView
+2014-08-19 18:53:31.443 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for android.widget.Toast
+2014-08-19 18:53:31.443 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.CouchbaseLiteException
+2014-08-19 18:53:31.444 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.util.Log
+2014-08-19 18:53:31.444 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.services.activities.BaseActivity
+2014-08-19 18:53:31.445 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.services.activities.EntityAdapter
+2014-08-19 18:53:31.446 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.services.authentication.UserManager
+2014-08-19 18:53:31.446 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.todolite2.document2.Application
+2014-08-19 18:53:31.447 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.todolite2.R
+2014-08-19 18:53:31.447 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.todolite2.document2.ListTasks
+2014-08-19 18:53:31.448 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.todolite2.document2.Task
+2014-08-19 18:53:31.448 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.todolite2.document2.TodoDB
+2014-08-19 18:53:31.449 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.todolite2.util.Utilities
+2014-08-19 18:53:31.450 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for app.getCurrentListId()
+2014-08-19 18:53:31.450 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for todoDB.getListTasks().iterator()
+2014-08-19 18:53:31.452 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for todoDB.getListTasks()
+2014-08-19 18:53:31.453 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listIterator.hasNext()
+2014-08-19 18:53:31.454 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listIterator.next().getId()
+2014-08-19 18:53:31.454 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listIterator.next()
+2014-08-19 18:53:31.455 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for this.getApplication()
+2014-08-19 18:53:31.455 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for ((Application)this.getApplication()).getTodoDB()
+2014-08-19 18:53:31.456 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for this.getApplication()
+2014-08-19 18:53:31.457 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for requestWindowFeature(Window.FEATURE_INDETERMINATE_PROGRESS)
+2014-08-19 18:53:31.457 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for setContentView(R.layout.activity_main)
+2014-08-19 18:53:31.458 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getFragmentManager().findFragmentById(R.id.navigation_drawer)
+2014-08-19 18:53:31.458 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getFragmentManager()
+2014-08-19 18:53:31.459 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTitle()
+2014-08-19 18:53:31.460 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for mDrawerFragment.setUp(R.id.navigation_drawer,(DrawerLayout)findViewById(R.id.drawer_layout))
+2014-08-19 18:53:31.460 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for findViewById(R.id.drawer_layout)
+2014-08-19 18:53:31.461 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getCurrentListId()
+2014-08-19 18:53:31.462 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for displayListContent(currentListId)
+2014-08-19 18:53:31.462 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getApplication()
+2014-08-19 18:53:31.463 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Toast.makeText(getApplicationContext(),"Shared account: " + UserManager.getCurrentUserId(this),Toast.LENGTH_LONG).show()
+2014-08-19 18:53:31.464 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Toast.makeText(getApplicationContext(),"Shared account: " + UserManager.getCurrentUserId(this),Toast.LENGTH_LONG)
+2014-08-19 18:53:31.464 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getApplicationContext()
+2014-08-19 18:53:31.465 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for UserManager.getCurrentUserId(this)
+2014-08-19 18:53:31.466 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for todoDB.getListTasks().findById(listDocId)
+2014-08-19 18:53:31.466 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for todoDB.getListTasks()
+2014-08-19 18:53:31.467 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Log.d("on create","*******************listtype: " + "-title-" + list.getTitle())
+2014-08-19 18:53:31.468 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for list.getTitle()
+2014-08-19 18:53:31.485 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActionBar().setSubtitle(list.getTitle())
+2014-08-19 18:53:31.485 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActionBar()
+2014-08-19 18:53:31.486 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for list.getTitle()
+2014-08-19 18:53:31.486 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getFragmentManager()
+2014-08-19 18:53:31.487 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for System.out.println("2 displayListContent*******************currentListId" + listDocId)
+2014-08-19 18:53:31.489 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for fragmentManager.beginTransaction().replace(R.id.container,TasksFragment.newInstance(listDocId),"TaskFragment").commit()
+2014-08-19 18:53:31.494 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for fragmentManager.beginTransaction().replace(R.id.container,TasksFragment.newInstance(listDocId),"TaskFragment")
+2014-08-19 18:53:31.495 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for fragmentManager.beginTransaction()
+2014-08-19 18:53:31.496 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for TasksFragment.newInstance(listDocId)
+2014-08-19 18:53:31.496 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for System.out.println("3 displayListContent*******************currentListId" + listDocId)
+2014-08-19 18:53:31.497 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getApplication()
+2014-08-19 18:53:31.498 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for application.setCurrentListId(listDocId)
+2014-08-19 18:53:31.498 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for System.out.println("4 displayListContent*******************currentListId" + listDocId)
+2014-08-19 18:53:31.499 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActionBar().setSubtitle("")
+2014-08-19 18:53:31.499 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActionBar()
+2014-08-19 18:53:31.492 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=6 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:33.129 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getFragmentManager()
+2014-08-19 18:53:33.129 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for fragmentManager.findFragmentByTag("TaskFragment")
+2014-08-19 18:53:33.130 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for fragmentManager.beginTransaction().remove(fragment).commit()
+2014-08-19 18:53:33.130 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for fragmentManager.beginTransaction().remove(fragment)
+2014-08-19 18:53:33.131 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for fragmentManager.beginTransaction()
+2014-08-19 18:53:33.132 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getApplication()
+2014-08-19 18:53:33.132 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for application.setCurrentListId(null)
+2014-08-19 18:53:33.133 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for System.out.println("onlist selected")
+2014-08-19 18:53:33.134 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for displayListContent(id)
+2014-08-19 18:53:33.134 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for cleanDisplay()
+2014-08-19 18:53:33.135 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActionBar()
+2014-08-19 18:53:33.136 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_STANDARD)
+2014-08-19 18:53:33.136 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for actionBar.setDisplayShowTitleEnabled(true)
+2014-08-19 18:53:33.137 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for actionBar.setTitle(mTitle)
+2014-08-19 18:53:33.137 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for mDrawerFragment.isDrawerOpen()
+2014-08-19 18:53:33.138 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getMenuInflater().inflate(R.menu.main,menu)
+2014-08-19 18:53:33.139 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getMenuInflater()
+2014-08-19 18:53:33.139 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for addLoginButton(menu)
+2014-08-19 18:53:33.140 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for addShareButton(menu)
+2014-08-19 18:53:33.140 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for addSyncNowButton(menu)
+2014-08-19 18:53:33.141 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for addRemoveaccountNowButton(menu)
+2014-08-19 18:53:33.142 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for restoreActionBar()
+2014-08-19 18:53:33.143 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for alert.setTitle(getResources().getString(R.string.title_dialog_new_list))
+2014-08-19 18:53:33.144 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getResources().getString(R.string.title_dialog_new_list)
+2014-08-19 18:53:33.144 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getResources()
+2014-08-19 18:53:33.145 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for input.setMaxLines(1)
+2014-08-19 18:53:33.146 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for input.setSingleLine(true)
+2014-08-19 18:53:33.147 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for input.setHint(getResources().getString(R.string.hint_new_list))
+2014-08-19 18:53:33.147 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getResources().getString(R.string.hint_new_list)
+2014-08-19 18:53:33.148 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getResources()
+2014-08-19 18:53:33.149 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for alert.setView(input)
+2014-08-19 18:53:33.151 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for alert.setPositiveButton("Ok",new DialogInterface.OnClickListener(){
+  public void onClick(  DialogInterface dialog,  int whichButton){
+    String title=input.getText().toString();
+    if (title.length() == 0) {
+      return;
+    }
+    try {
+      String currentUserId=UserManager.getCurrentUserId(((Application)getApplication()).getContext());
+      ListTasks list=new ListTasks();
+      list.setTitle(title);
+      todoDB.getListTasks().add(list);
+      todoDB.sync();
+      displayListContent(list.getId());
+      invalidateOptionsMenu();
+    }
+ catch (    CouchbaseLiteException e) {
+      Log.e(Application.TAG,"Cannot create a new list",e);
+    }
+  }
+}
+)
+2014-08-19 18:53:33.152 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=8 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:33.153 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=2 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:33.154 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=3 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:33.155 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=8 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:33.155 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=10 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:33.156 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=3 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:33.156 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=8 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:33.157 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=5 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:33.158 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=10 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:33.159 [pool-2-thread-4] WARNING com.objectaid.uml.model.definition.ConnectionDefinition connectEnd: Cannot find ConnectedElement for refId=7 in /SyncDocALib/src/com/york/cs/services/authentication/Authentication.ucls
+2014-08-19 18:53:33.161 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for input.getText().toString()
+2014-08-19 18:53:33.161 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for input.getText()
+2014-08-19 18:53:33.162 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for title.length()
+2014-08-19 18:53:33.162 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for UserManager.getCurrentUserId(((Application)getApplication()).getContext())
+2014-08-19 18:53:33.163 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for ((Application)getApplication()).getContext()
+2014-08-19 18:53:33.164 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getApplication()
+2014-08-19 18:53:33.165 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for list.setTitle(title)
+2014-08-19 18:53:33.165 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for todoDB.getListTasks().add(list)
+2014-08-19 18:53:33.166 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for todoDB.getListTasks()
+2014-08-19 18:53:33.166 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for todoDB.sync()
+2014-08-19 18:53:33.167 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for displayListContent(list.getId())
+2014-08-19 18:53:33.167 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for list.getId()
+2014-08-19 18:53:33.168 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for invalidateOptionsMenu()
+2014-08-19 18:53:33.169 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Log.e(Application.TAG,"Cannot create a new list",e)
+2014-08-19 18:53:33.170 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for alert.setNegativeButton("Cancel",new DialogInterface.OnClickListener(){
+  public void onClick(  DialogInterface dialog,  int whichButton){
+  }
+}
+)
+2014-08-19 18:53:33.170 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for alert.show()
+2014-08-19 18:53:33.171 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for item.getItemId()
+2014-08-19 18:53:33.172 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for createNewList()
+2014-08-19 18:53:33.173 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for args.putString(ARG_LIST_DOC_ID,id)
+2014-08-19 18:53:33.174 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for fragment.setArguments(args)
+2014-08-19 18:53:33.175 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity().getApplication()
+2014-08-19 18:53:33.176 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.176 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for application.getTodoDB()
+2014-08-19 18:53:33.177 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date())
+2014-08-19 18:53:33.178 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES)
+2014-08-19 18:53:33.178 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for File.createTempFile(fileName,".jpg",storageDir)
+2014-08-19 18:53:33.179 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for image.getAbsolutePath()
+2014-08-19 18:53:33.179 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for takePictureIntent.resolveActivity(getActivity().getPackageManager())
+2014-08-19 18:53:33.180 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity().getPackageManager()
+2014-08-19 18:53:33.180 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.181 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for createImageFile()
+2014-08-19 18:53:33.182 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Log.e(Application.TAG,"Cannot create a temp image file",e)
+2014-08-19 18:53:33.183 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for takePictureIntent.putExtra(MediaStore.EXTRA_OUTPUT,Uri.fromFile(photoFile))
+2014-08-19 18:53:33.183 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Uri.fromFile(photoFile)
+2014-08-19 18:53:33.184 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for startActivityForResult(takePictureIntent,REQUEST_TAKE_PHOTO)
+2014-08-19 18:53:33.184 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for intent.setType("image/*")
+2014-08-19 18:53:33.185 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for startActivityForResult(Intent.createChooser(intent,"Select File"),REQUEST_CHOOSE_PHOTO)
+2014-08-19 18:53:33.185 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Intent.createChooser(intent,"Select File")
+2014-08-19 18:53:33.186 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for mImageToBeAttached.recycle()
+2014-08-19 18:53:33.187 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity().findViewById(R.id.create_task)
+2014-08-19 18:53:33.187 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.188 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for createTaskPanel.findViewById(R.id.image)
+2014-08-19 18:53:33.188 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for imageView.setImageDrawable(getResources().getDrawable(R.drawable.ic_camera))
+2014-08-19 18:53:33.189 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getResources().getDrawable(R.drawable.ic_camera)
+2014-08-19 18:53:33.189 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getResources()
+2014-08-19 18:53:33.190 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.191 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for builder.setTitle("Add picture")
+2014-08-19 18:53:33.192 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for builder.setItems(items,new DialogInterface.OnClickListener(){
+  @Override public void onClick(  DialogInterface dialog,  int item){
+    if (item == 0) {
+      currentTask=task;
+      dispatchTakePhotoIntent();
+    }
+ else     if (item == 1) {
+      currentTask=task;
+      dispatchChoosePhotoIntent();
+    }
+ else {
+      deleteCurrentPhoto();
+    }
+  }
+}
+)
+2014-08-19 18:53:33.192 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for dispatchTakePhotoIntent()
+2014-08-19 18:53:33.193 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for dispatchChoosePhotoIntent()
+2014-08-19 18:53:33.193 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for deleteCurrentPhoto()
+2014-08-19 18:53:33.194 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for builder.show()
+2014-08-19 18:53:33.195 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for image.compress(Bitmap.CompressFormat.JPEG,50,stream)
+2014-08-19 18:53:33.195 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for stream.toByteArray()
+2014-08-19 18:53:33.196 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.213 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for intent.putExtra(ImageViewActivity.INTENT_IMAGE,byteArray)
+2014-08-19 18:53:33.214 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for startActivity(intent)
+2014-08-19 18:53:33.214 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for mAdapter.getItem(position)
+2014-08-19 18:53:33.215 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.215 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for builder.setTitle("Title")
+2014-08-19 18:53:33.216 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.getTitle()
+2014-08-19 18:53:33.217 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.217 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for input.setInputType(InputType.TYPE_CLASS_TEXT)
+2014-08-19 18:53:33.218 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for input.setText(m_Text)
+2014-08-19 18:53:33.218 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for builder.setView(input)
+2014-08-19 18:53:33.219 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for builder.setPositiveButton("OK",new DialogInterface.OnClickListener(){
+  @Override public void onClick(  DialogInterface dialog,  int which){
+    String m_Text=input.getText().toString();
+    task.setTitle(m_Text);
+    getTodoDB().getTasks().add(task);
+    try {
+      getTodoDB().sync();
+      requestTasks();
+      mAdapter.update();
+    }
+ catch (    CouchbaseLiteException e) {
+      e.printStackTrace();
+    }
+  }
+}
+)
+2014-08-19 18:53:33.219 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for input.getText().toString()
+2014-08-19 18:53:33.220 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for input.getText()
+2014-08-19 18:53:33.221 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.setTitle(m_Text)
+2014-08-19 18:53:33.221 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB().getTasks().add(task)
+2014-08-19 18:53:33.221 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB().getTasks()
+2014-08-19 18:53:33.222 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB()
+2014-08-19 18:53:33.222 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB().sync()
+2014-08-19 18:53:33.223 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB()
+2014-08-19 18:53:33.223 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for requestTasks()
+2014-08-19 18:53:33.224 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for mAdapter.update()
+2014-08-19 18:53:33.224 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for e.printStackTrace()
+2014-08-19 18:53:33.225 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for builder.show()
+2014-08-19 18:53:33.225 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for mAdapter.getItem(position)
+2014-08-19 18:53:33.226 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listTasks.getTasks().remove(task)
+2014-08-19 18:53:33.226 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listTasks.getTasks()
+2014-08-19 18:53:33.227 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB().sync()
+2014-08-19 18:53:33.227 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB()
+2014-08-19 18:53:33.228 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for e.printStackTrace()
+2014-08-19 18:53:33.228 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for requestTasks()
+2014-08-19 18:53:33.229 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for mAdapter.update()
+2014-08-19 18:53:33.229 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for inflater.inflate(R.layout.fragment_main,container,false)
+2014-08-19 18:53:33.230 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getArguments().getString(ARG_LIST_DOC_ID)
+2014-08-19 18:53:33.230 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getArguments()
+2014-08-19 18:53:33.231 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB().getListTasks().findById(listId)
+2014-08-19 18:53:33.231 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB().getListTasks()
+2014-08-19 18:53:33.232 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB()
+2014-08-19 18:53:33.232 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for inflater.inflate(R.layout.view_task_create,listView,false)
+2014-08-19 18:53:33.233 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for header.findViewById(R.id.image)
+2014-08-19 18:53:33.233 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for imageView.setOnClickListener(new View.OnClickListener(){
+  @Override public void onClick(  View v){
+    attachImage(null);
+  }
+}
+)
+2014-08-19 18:53:33.234 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for attachImage(null)
+2014-08-19 18:53:33.234 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for header.findViewById(R.id.text)
+2014-08-19 18:53:33.235 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for text.setOnKeyListener(new View.OnKeyListener(){
+  @Override public boolean onKey(  View view,  int i,  KeyEvent keyEvent){
+    if ((keyEvent.getAction() == KeyEvent.ACTION_DOWN) && (keyEvent.getKeyCode() == KeyEvent.KEYCODE_ENTER)) {
+      String inputText=text.getText().toString();
+      if (inputText.length() > 0) {
+        Log.d("task fragment create","*-*-*-*-*-*-*-*-*-*-*-*-*listid " + listId);
+        Task task=new Task();
+        task.setTitle(inputText);
+        getTodoDB().getTasks().add(task);
+        listTasks.getTasks().add(task);
+        try {
+          getTodoDB().sync();
+          if (mImageToBeAttached != null)           task.setImage(mImageToBeAttached);
+        }
+ catch (        CouchbaseLiteException e) {
+          e.printStackTrace();
+        }
+        requestTasks();
+        mAdapter.update();
+      }
+      text.setText("");
+      deleteCurrentPhoto();
+      return true;
+    }
+    return false;
+  }
+}
+)
+2014-08-19 18:53:33.236 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for keyEvent.getAction()
+2014-08-19 18:53:33.236 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for keyEvent.getKeyCode()
+2014-08-19 18:53:33.237 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for text.getText().toString()
+2014-08-19 18:53:33.237 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for text.getText()
+2014-08-19 18:53:33.238 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for inputText.length()
+2014-08-19 18:53:33.238 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Log.d("task fragment create","*-*-*-*-*-*-*-*-*-*-*-*-*listid " + listId)
+2014-08-19 18:53:33.239 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.setTitle(inputText)
+2014-08-19 18:53:33.240 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB().getTasks().add(task)
+2014-08-19 18:53:33.240 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB().getTasks()
+2014-08-19 18:53:33.241 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB()
+2014-08-19 18:53:33.241 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listTasks.getTasks().add(task)
+2014-08-19 18:53:33.242 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listTasks.getTasks()
+2014-08-19 18:53:33.242 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB().sync()
+2014-08-19 18:53:33.242 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB()
+2014-08-19 18:53:33.243 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.setImage(mImageToBeAttached)
+2014-08-19 18:53:33.243 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for e.printStackTrace()
+2014-08-19 18:53:33.244 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for requestTasks()
+2014-08-19 18:53:33.244 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for mAdapter.update()
+2014-08-19 18:53:33.245 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for text.setText("")
+2014-08-19 18:53:33.245 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for deleteCurrentPhoto()
+2014-08-19 18:53:33.246 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listView.addHeaderView(header)
+2014-08-19 18:53:33.247 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listView.setOnItemClickListener(new AdapterView.OnItemClickListener(){
+  @Override public void onItemClick(  AdapterView<?> adapter,  View view,  int position,  long id){
+    Task task=(Task)adapter.getItemAtPosition(position);
+    boolean checked=task.getChecked();
+    Log.d("*-*-*-*-*-setOnItemClickListener"," " + task.getChecked());
+    try {
+      task.setChecked(checked);
+      getTodoDB().sync();
+    }
+ catch (    CouchbaseLiteException e) {
+      Log.e(Application.TAG,"Cannot update checked status",e);
+      e.printStackTrace();
+    }
+  }
+}
+)
+2014-08-19 18:53:33.247 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for adapter.getItemAtPosition(position)
+2014-08-19 18:53:33.248 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.getChecked()
+2014-08-19 18:53:33.248 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Log.d("*-*-*-*-*-setOnItemClickListener"," " + task.getChecked())
+2014-08-19 18:53:33.249 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.getChecked()
+2014-08-19 18:53:33.249 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.setChecked(checked)
+2014-08-19 18:53:33.250 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB().sync()
+2014-08-19 18:53:33.250 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getTodoDB()
+2014-08-19 18:53:33.251 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Log.e(Application.TAG,"Cannot update checked status",e)
+2014-08-19 18:53:33.251 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for e.printStackTrace()
+2014-08-19 18:53:33.252 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listView.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener(){
+  @Override public boolean onItemLongClick(  AdapterView<?> parent,  View view,  final int position,  long id){
+    PopupMenu popup=new PopupMenu(getActivity(),view);
+    popup.getMenu().add(Menu.NONE,1,1,"Edit");
+    popup.getMenu().add(Menu.NONE,2,2,getResources().getString(R.string.action_delete));
+    popup.setOnMenuItemClickListener(new PopupMenu.OnMenuItemClickListener(){
+      @Override public boolean onMenuItemClick(      MenuItem item){
+        if (item.getItemId() == 2) {
+          deleteTask(position - 1);
+        }
+ else         if (item.getItemId() == 1) {
+          updateTask(position - 1);
+        }
+        return true;
+      }
+    }
+);
+    popup.show();
+    return true;
+  }
+}
+)
+2014-08-19 18:53:33.252 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.253 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for popup.getMenu().add(Menu.NONE,1,1,"Edit")
+2014-08-19 18:53:33.253 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for popup.getMenu()
+2014-08-19 18:53:33.254 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for popup.getMenu().add(Menu.NONE,2,2,getResources().getString(R.string.action_delete))
+2014-08-19 18:53:33.254 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for popup.getMenu()
+2014-08-19 18:53:33.255 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getResources().getString(R.string.action_delete)
+2014-08-19 18:53:33.255 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getResources()
+2014-08-19 18:53:33.256 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for popup.setOnMenuItemClickListener(new PopupMenu.OnMenuItemClickListener(){
+  @Override public boolean onMenuItemClick(  MenuItem item){
+    if (item.getItemId() == 2) {
+      deleteTask(position - 1);
+    }
+ else     if (item.getItemId() == 1) {
+      updateTask(position - 1);
+    }
+    return true;
+  }
+}
+)
+2014-08-19 18:53:33.256 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for item.getItemId()
+2014-08-19 18:53:33.257 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for deleteTask(position - 1)
+2014-08-19 18:53:33.257 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for item.getItemId()
+2014-08-19 18:53:33.257 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for updateTask(position - 1)
+2014-08-19 18:53:33.258 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for popup.show()
+2014-08-19 18:53:33.258 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for requestTasks()
+2014-08-19 18:53:33.259 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.259 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for mAdapter.update()
+2014-08-19 18:53:33.260 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listView.setAdapter(mAdapter)
+2014-08-19 18:53:33.260 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for e.printStackTrace()
+2014-08-19 18:53:33.261 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for BitmapFactory.decodeFile(mImagePathToBeAttached)
+2014-08-19 18:53:33.261 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for file.delete()
+2014-08-19 18:53:33.261 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for data.getData()
+2014-08-19 18:53:33.262 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for MediaStore.Images.Media.getBitmap(getActivity().getContentResolver(),uri)
+2014-08-19 18:53:33.262 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity().getContentResolver()
+2014-08-19 18:53:33.263 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.263 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Log.e(Application.TAG,"Cannot get a selected photo from the gallery.",e)
+2014-08-19 18:53:33.263 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for currentTask.setImage(mImageToBeAttached)
+2014-08-19 18:53:33.264 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for e.printStackTrace()
+2014-08-19 18:53:33.264 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for ThumbnailUtils.extractThumbnail(mImageToBeAttached,THUMBNAIL_SIZE_PX,THUMBNAIL_SIZE_PX)
+2014-08-19 18:53:33.265 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity().findViewById(R.id.image)
+2014-08-19 18:53:33.265 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.266 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for imageView.setImageBitmap(thumbnail)
+2014-08-19 18:53:33.266 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity().getApplication()
+2014-08-19 18:53:33.266 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.267 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for application.getTodoDB().getTasks().add(currentTask)
+2014-08-19 18:53:33.267 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for application.getTodoDB().getTasks()
+2014-08-19 18:53:33.268 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for application.getTodoDB()
+2014-08-19 18:53:33.268 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for application.getTodoDB().sync()
+2014-08-19 18:53:33.268 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for application.getTodoDB()
+2014-08-19 18:53:33.269 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for mAdapter.update()
+2014-08-19 18:53:33.269 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for e.printStackTrace()
+2014-08-19 18:53:33.270 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for context.getSystemService(Context.LAYOUT_INFLATER_SERVICE)
+2014-08-19 18:53:33.271 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for inflater.inflate(R.layout.view_task,null)
+2014-08-19 18:53:33.271 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getItem(position)
+2014-08-19 18:53:33.271 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for System.out.println("-------task on view id" + task.getTitle())
+2014-08-19 18:53:33.272 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.getTitle()
+2014-08-19 18:53:33.273 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.getImage()
+2014-08-19 18:53:33.273 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for e1.printStackTrace()
+2014-08-19 18:53:33.274 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for System.out.println("-------IMAGE NOT NULLL")
+2014-08-19 18:53:33.274 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for ThumbnailUtils.extractThumbnail(image,THUMBNAIL_SIZE_PX,THUMBNAIL_SIZE_PX)
+2014-08-19 18:53:33.275 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Log.e(Application.TAG,"Cannot decode the attached image",e)
+2014-08-19 18:53:33.275 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for System.out.println("-------IMAGE yes NULLL")
+2014-08-19 18:53:33.276 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for convertView.findViewById(R.id.image)
+2014-08-19 18:53:33.276 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for imageView.setImageBitmap(thumbnail)
+2014-08-19 18:53:33.277 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for imageView.setImageDrawable(getResources().getDrawable(R.drawable.ic_camera_light))
+2014-08-19 18:53:33.278 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getResources().getDrawable(R.drawable.ic_camera_light)
+2014-08-19 18:53:33.278 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getResources()
+2014-08-19 18:53:33.279 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for imageView.setOnClickListener(new View.OnClickListener(){
+  @Override public void onClick(  View v){
+    if (displayImage != null) {
+      dispatchImageViewIntent(displayImage);
+    }
+ else {
+      attachImage(task);
+    }
+  }
+}
+)
+2014-08-19 18:53:33.279 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for dispatchImageViewIntent(displayImage)
+2014-08-19 18:53:33.280 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for attachImage(task)
+2014-08-19 18:53:33.280 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for convertView.findViewById(R.id.text)
+2014-08-19 18:53:33.280 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for text.setText((String)task.getTitle())
+2014-08-19 18:53:33.281 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.getTitle()
+2014-08-19 18:53:33.281 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for convertView.findViewById(R.id.checked)
+2014-08-19 18:53:33.282 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.getChecked()
+2014-08-19 18:53:33.282 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for checkedProperty.booleanValue()
+2014-08-19 18:53:33.283 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for checkBox.setChecked(checked)
+2014-08-19 18:53:33.283 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for checkBox.setOnClickListener(new View.OnClickListener(){
+  @Override public void onClick(  View view){
+    task.setChecked(checkBox.isChecked());
+    Application application=(Application)getActivity().getApplication();
+    try {
+      application.getTodoDB().sync();
+    }
+ catch (    CouchbaseLiteException e) {
+      e.printStackTrace();
+    }
+  }
+}
+)
+2014-08-19 18:53:33.284 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for task.setChecked(checkBox.isChecked())
+2014-08-19 18:53:33.284 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for checkBox.isChecked()
+2014-08-19 18:53:33.285 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity().getApplication()
+2014-08-19 18:53:33.285 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for getActivity()
+2014-08-19 18:53:33.285 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for application.getTodoDB().sync()
+2014-08-19 18:53:33.286 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for application.getTodoDB()
+2014-08-19 18:53:33.286 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for e.printStackTrace()
+2014-08-19 18:53:33.287 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for System.out.println("-------- update in task")
+2014-08-19 18:53:33.287 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for tasks.clear()
+2014-08-19 18:53:33.287 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for ((Application)Application.getContext()).getTodoDB()
+2014-08-19 18:53:33.288 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Application.getContext()
+2014-08-19 18:53:33.288 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for todoDB.getListTasks().findById(listTasks.getId())
+2014-08-19 18:53:33.289 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for todoDB.getListTasks()
+2014-08-19 18:53:33.289 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listTasks.getId()
+2014-08-19 18:53:33.289 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listTasks.getTasks().iterator()
+2014-08-19 18:53:33.290 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for listTasks.getTasks()
+2014-08-19 18:53:33.290 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for tasks.addAll(Utilities.copyIterator(taskIterator))
+2014-08-19 18:53:33.291 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for Utilities.copyIterator(taskIterator)
+2014-08-19 18:53:33.291 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for System.out.println("-------- update in task " + tasks.size())
+2014-08-19 18:53:33.292 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for tasks.size()
+2014-08-19 18:53:33.292 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for notifyDataSetChanged()
+2014-08-19 18:53:33.293 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for setProgressBarIndeterminateVisibility(true)
+2014-08-19 18:53:33.293 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for MainActivity.this.setProgressBarIndeterminateVisibility(setActive)
+2014-08-19 18:53:33.320 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi
+2014-08-19 18:53:33.321 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi.queryBuilder.QueryProducer
+2014-08-19 18:53:33.322 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.couchbase.lite.CouchbaseLiteException
+2014-08-19 18:53:33.330 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for dbObject.put("tasks",new ArrayList<HashMap<String,Object>>())
+2014-08-19 18:53:33.338 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for parseString(dbObject.get("title") + "","")
+2014-08-19 18:53:33.339 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for dbObject.get("title")
+2014-08-19 18:53:33.340 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for dbObject.put("title",title)
+2014-08-19 18:53:33.341 [pool-2-thread-1] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: MethodInvocation.resolveMethodBinding() failed for notifyChanged()
+2014-08-19 22:59:36.390 [Worker-35] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi
+2014-08-19 22:59:36.412 [Worker-35] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi
+2014-08-19 22:59:36.425 [Worker-35] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi
+2014-08-19 22:59:36.972 [Worker-35] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi
+2014-08-19 22:59:37.007 [Worker-35] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi
+2014-08-19 22:59:37.070 [Worker-35] WARNING com.objectaid.uml.java.ClassifierDependencyCandidateFactory$DependencyVisitor visit: QualifiedName.resolveTypeBinding() failed for com.york.cs.couchbaseapi

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.android.ide.eclipse.adt.junit.launchConfigurationType">
+<stringAttribute key="com.android.ide.eclipse.adt.instrumentation" value="android.test.InstrumentationTestRunner"/>
+<stringAttribute key="com.android.ide.eclipse.adt.last.used.device" value="192.168.56.101:5555"/>
+<booleanAttribute key="com.android.ide.eclipse.adt.reuse.last.used.device" value="true"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/TestTesterAndroid/src/com/york/cs/testproject/test/blog/BlogTestAPI.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.junit.CONTAINER" value=""/>
+<booleanAttribute key="org.eclipse.jdt.junit.KEEPRUNNING_ATTR" value="false"/>
+<stringAttribute key="org.eclipse.jdt.junit.TESTNAME" value="deleteRootObjectDB"/>
+<stringAttribute key="org.eclipse.jdt.junit.TEST_KIND" value="org.eclipse.jdt.junit.loader.junit3"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.york.cs.testproject.test.blog.BlogTestAPI"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TestTesterAndroid"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value=""/>
+</launchConfiguration>
