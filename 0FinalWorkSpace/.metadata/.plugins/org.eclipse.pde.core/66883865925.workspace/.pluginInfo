@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="983" class="com.york.cs.swe.syncdoc.Activator" localization="OSGI-INF/l10n/bundle" name="SyncDoc" project="com.york.cs.swe.SyncDoc" provider="SST">
+		<library name="."/>
+	</bundle>
+</map>

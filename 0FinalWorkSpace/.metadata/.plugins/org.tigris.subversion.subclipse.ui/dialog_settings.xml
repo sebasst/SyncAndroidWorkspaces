@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="DirectorySelectionPage.lastParent_https://sebas-samsung:8443/svn/0FinalProject"/>
+	<item value="0" key="CommitDialog.location.y"/>
+	<item value="102" key="CommitDialog.location.x"/>
+	<item value="2" key="ResourceSelectionTree.mode"/>
+	<item value="500" key="CommitDialog.weights.0"/>
+	<item value="500" key="CommitDialog.weights.1"/>
+	<item value="https://sebas-samsung:8443/svn/0FinalProject" key="RepositorySelectionPage.lastRepository"/>
+	<item value="686" key="CommitDialog.size.y"/>
+	<item value="1163" key="CommitDialog.size.x"/>
+	<section name="CommitWizard">
+		<item value="500" key="VWeight2"/>
+		<item value="500" key="VWeight1"/>
+		<item value="false" key="ShowCompare"/>
+	</section>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="https://sebas-samsung:8443/svn/0FinalProject"/>
+		</list>
+	</section>
+</section>

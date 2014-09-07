@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;TodoLite2&apos;&#x0D;&#x0A;- Original project: &apos;TodoLite2&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     TODO.jpg&#x0D;&#x0A;     TODO.ucls&#x0D;&#x0A;     TODO2.jpg&#x0D;&#x0A;     TODO2.ucls" description="Delete elements" element1="src-gen/com/york/cs/todolite2/document2/TODO.ucls" element2="src-gen/com/york/cs/todolite2/document2/TODO2.ucls" element3="src-gen/com/york/cs/todolite2/document2/TODO2.jpg" element4="src-gen/com/york/cs/todolite2/document2/TODO.jpg" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1409942817557" subPackages="false" version="1.0"/>
+</session>

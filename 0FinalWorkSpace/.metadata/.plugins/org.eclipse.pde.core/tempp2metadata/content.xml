@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?metadataRepository version='1.1.0'?>
+<repository name='file:/D:/Dropbox/0FinalWorkSpace/.metadata/.plugins/org.eclipse.pde.core/tempp2metadata - metadata' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1408468065414'/>
+    <property name='p2.compressed' value='false'/>
+  </properties>
+  <units size='1'>
+    <unit id='com.york.cs.swe.SyncDoc' version='1.0.0.201408191807'>
+      <update id='com.york.cs.swe.SyncDoc' range='[0.0.0,1.0.0.201408191807)' severity='0'/>
+      <properties size='2'>
+        <property name='org.eclipse.equinox.p2.name' value='SyncDoc'/>
+        <property name='org.eclipse.equinox.p2.provider' value='SST'/>
+      </properties>
+      <provides size='3'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='com.york.cs.swe.SyncDoc' version='1.0.0.201408191807'/>
+        <provided namespace='osgi.bundle' name='com.york.cs.swe.SyncDoc' version='1.0.0.201408191807'/>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+      </provides>
+      <requires size='19'>
+        <required namespace='osgi.bundle' name='org.eclipse.ui' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.core.runtime' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.core.resources' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.ui.ide' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.jdt.core' range='3.9.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.emf.emfatic.core' range='0.8.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.epsilon.emc.emf' range='1.1.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.epsilon.eol.engine' range='1.1.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.epsilon.egl.engine' range='1.1.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.epsilon.emc.plainxml' range='1.1.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.core.filesystem' range='1.4.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.gymnast.runtime.core' range='0.8.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.epsilon.evl.emf.validation' range='1.1.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.epsilon.evl.engine' range='1.1.0'/>
+        <required namespace='osgi.bundle' name='com.android.ide.eclipse.adt' range='23.0.3'/>
+        <required namespace='osgi.bundle' name='javax.servlet' range='3.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.wtp.jee.capabilities' range='1.0.100'/>
+        <required namespace='osgi.bundle' name='org.eclipse.jst.server.tomcat.core' range='1.1.405'/>
+        <required namespace='osgi.bundle' name='org.eclipse.ui.forms' range='3.6.1'/>
+      </requires>
+      <artifacts size='1'>
+        <artifact classifier='osgi.bundle' id='com.york.cs.swe.SyncDoc' version='1.0.0.201408191807'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='manifest'>
+            Bundle-SymbolicName: com.york.cs.swe.SyncDoc;singleton:=true&#xA;Bundle-Version: 1.0.0.201408191807&#xA;
+          </instruction>
+        </instructions>
+      </touchpointData>
+    </unit>
+  </units>
+</repository>

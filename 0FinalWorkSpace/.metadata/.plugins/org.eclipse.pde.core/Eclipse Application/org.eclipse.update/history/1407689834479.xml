@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1407689834479" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="org.eclipse.cdt" url="features/org.eclipse.cdt_8.3.0.201402142303/" version="8.3.0.201402142303">
+</feature>
+<feature id="org.eclipse.help" plugin-identifier="org.eclipse.help.base" url="features/org.eclipse.help_2.0.2.v20140221-1700/" version="2.0.2.v20140221-1700">
+</feature>
+<feature id="org.tigris.subversion.subclipse" plugin-identifier="org.tigris.subversion.subclipse.core" url="features/org.tigris.subversion.subclipse_1.10.5/" version="1.10.5">
+</feature>
+<feature id="org.eclipse.help.source" url="features/org.eclipse.help.source_2.0.2.v20140221-1700/" version="2.0.2.v20140221-1700">
+</feature>
+<feature id="org.tigris.subversion.clientadapter.feature" plugin-identifier="org.tigris.subversion.clientadapter" url="features/org.tigris.subversion.clientadapter.feature_1.10.1/" version="1.10.1">
+</feature>
+<feature id="org.eclipse.epsilon.ewl.gmf.feature" url="features/org.eclipse.epsilon.ewl.gmf.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.cdt.gnu.build" url="features/org.eclipse.cdt.gnu.build_8.3.0.201402142303/" version="8.3.0.201402142303">
+</feature>
+<feature id="org.eclipse.emf.emfatic" url="features/org.eclipse.emf.emfatic_0.8.0.201302100848/" version="0.8.0.201302100848">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature" url="features/org.eclipse.equinox.p2.core.feature_1.2.1.v20140221-1852/" version="1.2.1.v20140221-1852">
+</feature>
+<feature id="org.eclipse.wst.xml_ui.feature" plugin-identifier="org.eclipse.wst.xml.ui" url="features/org.eclipse.wst.xml_ui.feature_3.5.2.v201401062113-7H7IFizDxumVu0K6bjdPjXRkoz0FiUYMnSyT9PL/" version="3.5.2.v201401062113-7H7IFizDxumVu0K6bjdPjXRkoz0FiUYMnSyT9PL">
+</feature>
+<feature id="org.eclipse.epsilon.uml.feature" url="features/org.eclipse.epsilon.uml.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.wst.xml_core.feature" url="features/org.eclipse.wst.xml_core.feature_3.5.2.v201401062113-7C7OFvVF7RZHQXIlNxNyPh/" version="3.5.2.v201401062113-7C7OFvVF7RZHQXIlNxNyPh">
+</feature>
+<feature id="org.eclipse.cvs.source" url="features/org.eclipse.cvs.source_1.4.0.v20140221-1700/" version="1.4.0.v20140221-1700">
+</feature>
+<feature id="org.eclipse.egit" url="features/org.eclipse.egit_3.2.0.201312181205-r/" version="3.2.0.201312181205-r">
+</feature>
+<feature id="org.eclipse.rcp.source" url="features/org.eclipse.rcp.source_4.3.2.v20140221-1700/" version="4.3.2.v20140221-1700">
+</feature>
+<feature id="org.eclipse.wst.common_core.feature" url="features/org.eclipse.wst.common_core.feature_3.5.2.v201312050600-7B7EFSkF7RZHOoKlQwR7NJ/" version="3.5.2.v201312050600-7B7EFSkF7RZHOoKlQwR7NJ">
+</feature>
+<feature id="org.eclipse.wst.ws_wsdl15.feature" url="features/org.eclipse.wst.ws_wsdl15.feature_1.5.301.v201102200555-2407w312123151655/" version="1.5.301.v201102200555-2407w312123151655">
+</feature>
+<feature id="org.eclipse.cdt.platform" url="features/org.eclipse.cdt.platform_8.3.0.201402142303/" version="8.3.0.201402142303">
+</feature>
+<feature id="org.eclipse.epp.package.standard.feature" plugin-identifier="org.eclipse.epp.package.standard" url="features/org.eclipse.epp.package.standard.feature_2.0.2.20140224-0000/" version="2.0.2.20140224-0000">
+</feature>
+<feature id="org.tigris.subversion.clientadapter.svnkit.feature" plugin-identifier="org.tigris.subversion.clientadapter.svnkit" url="features/org.tigris.subversion.clientadapter.svnkit.feature_1.8.9/" version="1.8.9">
+</feature>
+<feature id="org.eclipse.equinox.p2.user.ui.source" url="features/org.eclipse.equinox.p2.user.ui.source_2.2.0.v20140221-1852/" version="2.2.0.v20140221-1852">
+</feature>
+<feature id="com.collabnet.subversion.merge.feature" plugin-identifier="com.collabnet.subversion.merge" url="features/com.collabnet.subversion.merge.feature_4.0.2/" version="4.0.2">
+</feature>
+<feature id="org.tigris.subversion.clientadapter.javahl.feature" plugin-identifier="org.tigris.subversion.clientadapter.javahl" url="features/org.tigris.subversion.clientadapter.javahl.feature_1.8.9.1/" version="1.8.9.1">
+</feature>
+<feature id="org.eclipse.epp.package.common.feature" url="features/org.eclipse.epp.package.common.feature_2.0.2.20140224-0000/" version="2.0.2.20140224-0000">
+</feature>
+<feature id="org.eclipse.jst.enterprise_userdoc.feature" url="features/org.eclipse.jst.enterprise_userdoc.feature_3.3.100.v201105122000-62FUGBgJ9EA9aEeHRHc/" version="3.3.100.v201105122000-62FUGBgJ9EA9aEeHRHc">
+</feature>
+<feature id="org.eclipse.epsilon.uml.dt.feature" url="features/org.eclipse.epsilon.uml.dt.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.jst.web_userdoc.feature" url="features/org.eclipse.jst.web_userdoc.feature_3.5.0.v201303142300-23-7w312415412669/" version="3.5.0.v201303142300-23-7w312415412669">
+</feature>
+<feature id="org.eclipse.jdt.source" url="features/org.eclipse.jdt.source_3.9.2.v20140221-1700/" version="3.9.2.v20140221-1700">
+</feature>
+<feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_4.3.2.v20140221-1700/" version="4.3.2.v20140221-1700">
+</feature>
+<feature id="org.eclipse.cvs" url="features/org.eclipse.cvs_1.4.0.v20140221-1700/" version="1.4.0.v20140221-1700">
+</feature>
+<feature id="org.eclipse.equinox.p2.discovery.feature" url="features/org.eclipse.equinox.p2.discovery.feature_1.0.100.v20130502-0334/" version="1.0.100.v20130502-0334">
+</feature>
+<feature id="org.eclipse.equinox.p2.rcp.feature" url="features/org.eclipse.equinox.p2.rcp.feature_1.2.0.v20140221-1852/" version="1.2.0.v20140221-1852">
+</feature>
+<feature id="org.eclipse.jst.web_core.feature" url="features/org.eclipse.jst.web_core.feature_3.5.2.v201311051900-7Q7GGbXFE9LeBYN3-od-Jt2kwz-0sN863877/" version="3.5.2.v201311051900-7Q7GGbXFE9LeBYN3-od-Jt2kwz-0sN863877">
+</feature>
+<feature id="org.eclipse.epsilon.eugenia.feature" url="features/org.eclipse.epsilon.eugenia.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="com.android.ide.eclipse.gldebugger.feature" url="features/com.android.ide.eclipse.gldebugger.feature_23.0.3.1327240/" version="23.0.3.1327240">
+</feature>
+<feature id="org.eclipse.epp.mpc" plugin-identifier="org.eclipse.epp.mpc.ui" url="features/org.eclipse.epp.mpc_1.2.1.v20140219-1000/" version="1.2.1.v20140219-1000">
+</feature>
+<feature id="org.eclipse.wst.xml_userdoc.feature" url="features/org.eclipse.wst.xml_userdoc.feature_3.3.0.v201102071641-50FYwAkF7B77UBZFDBL/" version="3.3.0.v201102071641-50FYwAkF7B77UBZFDBL">
+</feature>
+<feature id="org.eclipse.wst.ws_core.feature" url="features/org.eclipse.wst.ws_core.feature_3.5.0.v201303141425-7L7SFpmFGtGd01jvy-rM752766/" version="3.5.0.v201303141425-7L7SFpmFGtGd01jvy-rM752766">
+</feature>
+<feature id="org.eclipse.epsilon.concordance.feature" url="features/org.eclipse.epsilon.concordance.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.equinox.p2.rcp.feature.source" url="features/org.eclipse.equinox.p2.rcp.feature.source_1.2.0.v20140221-1852/" version="1.2.0.v20140221-1852">
+</feature>
+<feature id="org.eclipse.cdt.gdb" url="features/org.eclipse.cdt.gdb_8.3.0.201402142303/" version="8.3.0.201402142303">
+</feature>
+<feature id="org.eclipse.wst.common_ui.feature" url="features/org.eclipse.wst.common_ui.feature_3.5.2.v201310231535-7C7BFeGEdhOaxlXh9oUj1pLmRxS8OK/" version="3.5.2.v201310231535-7C7BFeGEdhOaxlXh9oUj1pLmRxS8OK">
+</feature>
+<feature id="org.eclipse.epsilon.emf.dt.feature" url="features/org.eclipse.epsilon.emf.dt.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.epsilon.hutn.dt.feature" url="features/org.eclipse.epsilon.hutn.dt.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.pde" url="features/org.eclipse.pde_3.9.1.v20140221-1700/" version="3.9.1.v20140221-1700">
+</feature>
+<feature id="com.android.ide.eclipse.hierarchyviewer.feature" plugin-identifier="com.android.ide.eclipse.hierarchyviewer" url="features/com.android.ide.eclipse.hierarchyviewer.feature_23.0.3.1327240/" version="23.0.3.1327240">
+</feature>
+<feature id="org.eclipse.wst.ws_userdoc.feature" url="features/org.eclipse.wst.ws_userdoc.feature_3.1.300.v201102200555-44FR79oB5855Q8IBD7G/" version="3.1.300.v201102200555-44FR79oB5855Q8IBD7G">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature.source" url="features/org.eclipse.equinox.p2.core.feature.source_1.2.1.v20140221-1852/" version="1.2.1.v20140221-1852">
+</feature>
+<feature id="org.eclipse.cdt.gnu.dsf" url="features/org.eclipse.cdt.gnu.dsf_8.3.0.201402142303/" version="8.3.0.201402142303">
+</feature>
+<feature id="org.tigris.subversion.subclipse.mylyn" url="features/org.tigris.subversion.subclipse.mylyn_3.0.0/" version="3.0.0">
+</feature>
+<feature id="com.android.ide.eclipse.traceview.feature" plugin-identifier="com.android.ide.eclipse.traceview" url="features/com.android.ide.eclipse.traceview.feature_23.0.3.1327240/" version="23.0.3.1327240">
+</feature>
+<feature id="org.eclipse.epsilon.concordance.dependencies.feature" url="features/org.eclipse.epsilon.concordance.dependencies.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.epsilon.emf.dt.dependencies.feature" url="features/org.eclipse.epsilon.emf.dt.dependencies.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.jdt" url="features/org.eclipse.jdt_3.9.2.v20140221-1700/" version="3.9.2.v20140221-1700">
+</feature>
+<feature id="org.eclipse.emf.common" url="features/org.eclipse.emf.common_2.9.2.v20131212-0545/" version="2.9.2.v20131212-0545">
+</feature>
+<feature id="org.eclipse.rcp.configuration" url="features/org.eclipse.rcp.configuration_1.0.0.v20140117-0610/" version="1.0.0.v20140117-0610">
+</feature>
+<feature id="org.eclipse.jst.enterprise_core.feature" url="features/org.eclipse.jst.enterprise_core.feature_3.5.0.v201303132100-52FXNAkF7BG7QBHAJ77/" version="3.5.0.v201303132100-52FXNAkF7BG7QBHAJ77">
+</feature>
+<feature id="org.eclipse.epsilon.ewl.emf.feature" url="features/org.eclipse.epsilon.ewl.emf.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.platform.source" url="features/org.eclipse.platform.source_4.3.2.v20140221-1852/" version="4.3.2.v20140221-1852">
+</feature>
+<feature id="org.eclipse.epsilon.emf.feature" url="features/org.eclipse.epsilon.emf.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.epsilon.evl.emf.validation.feature" url="features/org.eclipse.epsilon.evl.emf.validation.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="com.android.ide.eclipse.ddms.feature" plugin-identifier="com.android.ide.eclipse.ddms" url="features/com.android.ide.eclipse.ddms.feature_23.0.3.1327240/" version="23.0.3.1327240">
+</feature>
+<feature id="org.eclipse.pde.source" url="features/org.eclipse.pde.source_3.9.1.v20140221-1700/" version="3.9.1.v20140221-1700">
+</feature>
+<feature id="com.android.ide.eclipse.ndk.feature" url="features/com.android.ide.eclipse.ndk.feature_23.0.3.1327240/" version="23.0.3.1327240">
+</feature>
+<feature id="org.eclipse.emf.ecore" url="features/org.eclipse.emf.ecore_2.9.2.v20131212-0545/" version="2.9.2.v20131212-0545">
+</feature>
+<feature id="org.eclipse.equinox.p2.user.ui" url="features/org.eclipse.equinox.p2.user.ui_2.2.0.v20140221-1852/" version="2.2.0.v20140221-1852">
+</feature>
+<feature id="org.eclipse.jst.web_ui.feature" url="features/org.eclipse.jst.web_ui.feature_3.5.2.v201311051900-7F7GFVuC27Svmclpwjkc0enMD7nrQ9V2nvprn2h2/" version="3.5.2.v201311051900-7F7GFVuC27Svmclpwjkc0enMD7nrQ9V2nvprn2h2">
+</feature>
+<feature id="org.eclipse.equinox.p2.extras.feature" url="features/org.eclipse.equinox.p2.extras.feature_1.2.0.v20140221-1852/" version="1.2.0.v20140221-1852">
+</feature>
+<feature id="org.eclipse.equinox.p2.extras.feature.source" url="features/org.eclipse.equinox.p2.extras.feature.source_1.2.0.v20140221-1852/" version="1.2.0.v20140221-1852">
+</feature>
+<feature id="org.eclipse.epsilon.hutn.feature" url="features/org.eclipse.epsilon.hutn.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.wst.ws_ui.feature" url="features/org.eclipse.wst.ws_ui.feature_3.5.2.v201312021609-7I7EFk_EtEo_L0G8-I7p3FPGpvnnteWuy61GjVZN/" version="3.5.2.v201312021609-7I7EFk_EtEo_L0G8-I7p3FPGpvnnteWuy61GjVZN">
+</feature>
+<feature id="org.eclipse.jst.enterprise_ui.feature" plugin-identifier="org.eclipse.jst.jee.ui" url="features/org.eclipse.jst.enterprise_ui.feature_3.5.2.v201311051900-7b7KIawFSK2WQyUFC2y01XXyUmRm/" version="3.5.2.v201311051900-7b7KIawFSK2WQyUFC2y01XXyUmRm">
+</feature>
+<feature id="org.eclipse.jgit" url="features/org.eclipse.jgit_3.2.0.201312181205-r/" version="3.2.0.201312181205-r">
+</feature>
+<feature id="com.android.ide.eclipse.adt.feature" plugin-identifier="com.android.ide.eclipse.adt" url="features/com.android.ide.eclipse.adt.feature_23.0.3.1327240/" version="23.0.3.1327240">
+</feature>
+<feature id="org.eclipse.platform" url="features/org.eclipse.platform_4.3.2.v20140221-1852/" version="4.3.2.v20140221-1852">
+</feature>
+<feature id="org.tigris.subversion.subclipse.graph.feature" plugin-identifier="org.tigris.subversion.subclipse.graph" url="features/org.tigris.subversion.subclipse.graph.feature_1.1.1/" version="1.1.1">
+</feature>
+<feature id="org.eclipse.epsilon.core.dt.feature" url="features/org.eclipse.epsilon.core.dt.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.cdt.gnu.debug" url="features/org.eclipse.cdt.gnu.debug_8.3.0.201402142303/" version="8.3.0.201402142303">
+</feature>
+<feature id="org.eclipse.epsilon.hutn.dependencies.feature" url="features/org.eclipse.epsilon.hutn.dependencies.feature_1.1.0.201404102110/" version="1.1.0.201404102110">
+</feature>
+<feature id="org.eclipse.e4.rcp.source" url="features/org.eclipse.e4.rcp.source_1.2.2.v20140206-1358/" version="1.2.2.v20140206-1358">
+</feature>
+<feature id="org.eclipse.e4.rcp" url="features/org.eclipse.e4.rcp_1.2.2.v20140206-1358/" version="1.2.2.v20140206-1358">
+</feature>
+</site>
+</config>

@@ -1,0 +1,29 @@
+1408552078989	Rename package 'activities'
+1408552086765	Rename package 'authentication'
+1408552152106	Move compilation units
+1408552156418	Delete element
+1408552177570	Rename package 'com.couchbase.todolite'
+1408552185816	Rename package 'com.couchbase.todolite.document'
+1408552194207	Rename package 'com.couchbase.todolite.helper'
+1408552251148	Delete element
+1408552259561	Delete element
+1408552398438	Rename type 'UserManager'
+1408552408749	Rename type 'SyncManager'
+1408553961721	Rename type 'SyncManager1'
+1408553980828	Rename type 'UserManager1'
+1408555469499	Delete element
+1408555763390	Delete element
+1408587124664	Rename method 'updateTask'
+1408614949805	Rename local variable 'user'
+1408615457729	Rename method 'addMemberToList'
+1408617762976	Rename local variable 'task'
+1408617795638	Rename local variable 'properties'
+1408617845798	Rename local variable 'properties'
+1408618012464	Delete element
+1408618498672	Rename local variable 'task'
+1408618615973	Rename local variable 'task'
+1408618718417	Rename local variable 'task'
+1408618820934	Rename local variable 'task'
+1408618981932	Rename local variable 'task'
+1408618993463	Rename local variable 'task'
+1408632290890	Delete element
